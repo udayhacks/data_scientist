@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import numpy as np 
 
 a = np.array([12,4,5,67,9])
@@ -21,3 +22,11 @@ print(x)
 f = np.sin(x)
 print(f)
 print(np.sum(a))
+=======
+import numpy as np 
+
+a = np.array([12,4,5,67,9])
+print(a)
+b = np.array([1,3,2,3],dtype=float,order="F")
+print(b)
+>>>>>>> be9f04d7ce076079fc148ced739bcc8a65ab69bd
